@@ -1,0 +1,15 @@
+{
+  "name": "it452project",
+  "version": "1.0.0",
+  "description": "COVID-19 DASHBOARD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SAI RAM GANDLA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
