@@ -2,8 +2,6 @@
 
 📊 Author: Sai Ram Gandla
 
-🏫 Course: IT452 - Data Visualization
-
 📖 Overview
 
 The COVID-19 Data Analytics Dashboard is an interactive web-based application built using D3.js 📈 for visualizing global COVID-19 statistics.It dynamically processes and visualizes COVID-19 data to present meaningful insights through real-time data updates, dropdown selectors, and time sliders. 🚀
@@ -98,9 +96,9 @@ open index.html
 
 🙏 Acknowledgments
 
-Data Source: [Add source links here] 🌐
+Data Source: kaggle 🌐
 
-Developed as part of IT452 - Data Visualization coursework. 📚
+
 
 📧 Contact
 
